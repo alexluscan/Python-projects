@@ -1,0 +1,10 @@
+978-3-16-000000-0,Jules Verne,Around the World in Eighty Days
+978-3-16-000001-0,Jules Verne,The 20000 Leagues Under the Seas
+978-3-16-000002-0,Jules Verne,Journey to the Center of the Earth
+978-3-16-000003-0,Ion Creanga,The Harap-Alb Story
+978-3-16-000004-0,Ion Creanga,Childhood Memories
+978-3-16-000005-0,Ion Creanga,The bag with two coins
+978-3-16-000006-0,William Shakespeare,The Hamlet
+978-3-16-000007-0,William Shakespeare,Romeo and Julieta
+978-3-16-000008-0,William Shakespeare,Julius Caesar
+978-3-16-000009-0,Robert Martin,The Clean Code
